@@ -1,0 +1,20 @@
+{
+  "name": "devops-ci-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Undesired9/DevOps-CI-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Undesired9/DevOps-CI-Demo/issues"
+  },
+  "homepage": "https://github.com/Undesired9/DevOps-CI-Demo#readme"
+}
